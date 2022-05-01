@@ -6,7 +6,8 @@ Material for guest lecture in Additive Manufacturing course
 You can find the 2*45' slides 
 
 
-Agenda
+*Agenda*
+
 15’Design Optimization /Refresh
 
 15’Computing Derivatives /Mathematical Background
